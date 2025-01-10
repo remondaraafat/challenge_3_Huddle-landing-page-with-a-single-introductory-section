@@ -59,10 +59,11 @@ i{
 .f{
     padding: .5rem .6rem; 
 }
-@media (max-width: 500px) {
+@media (max-width:600px) {
     .landing{
         flex-direction: column;}   
         .main{
             height: 140vh;
+            padding: 1rem;
         }
 }
